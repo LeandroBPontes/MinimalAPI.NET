@@ -1,4 +1,4 @@
 # CursoMinimalAPI.NET
- Curso sobre minimal API .NET 6
+ course about minimal API .NET 6
  JWT Authentication
  
