@@ -1,4 +1,3 @@
-# CursoMinimalAPI.NET
- course about minimal API .NET 6
- JWT Authentication
+MinimalAPI.NET
+Minimal API .NET 6 module with JWT Authentication
  
